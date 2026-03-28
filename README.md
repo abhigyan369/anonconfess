@@ -1,6 +1,9 @@
 # 🎭 AnonConfess
 
 **Anonymous confession platform** — share, react, and comment without revealing your identity.
+<img width="1465" height="839" alt="image" src="https://github.com/user-attachments/assets/6c0dad43-e731-4da7-a921-41d4fb351f35" />
+<img width="1465" height="837" alt="image" src="https://github.com/user-attachments/assets/bc5b4535-f892-4a21-a765-303b97473a62" />
+
 
 ## Tech Stack
 
